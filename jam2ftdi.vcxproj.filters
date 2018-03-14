@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{682bac10-56dc-42bf-b907-3086b6a6660a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JAMARRAY.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMCOMP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMCRC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMEXEC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMEXP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMHEAP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMJTAG.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMNOTE.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMSTACK.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMSTUB.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMSYM.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JAMUTIL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FTDI_API.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JAMARRAY.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMCOMP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMDEFS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMEXEC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMEXP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMEXPRT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMHEAP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMJTAG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMPORT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMSTACK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMSYM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMUTIL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JAMYTAB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTDI_API.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTDImap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTDIid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
